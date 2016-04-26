@@ -1,0 +1,16 @@
+{
+  "name": "ResponsiveBoilerplate",
+  "version": "0.1.1",
+  "description": "responsive boilerplate example",
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.12.3",
+    "path": "^0.11.14",
+    "morgan": "latest"
+  },
+  "repository":  {
+    "type": "git",
+    "url": "https://github.com/tommyxsky/responsive-boilerplate.git"
+  },
+  "license":"MIT"
+}
